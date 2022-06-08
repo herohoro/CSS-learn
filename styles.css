@@ -71,3 +71,7 @@ table.month td.day .day-content:hover {
 .calendar .calendar-header .year-neighbor2 {
   font-size: 1em;
 }
+.calendar .months-container .month-container.month-3{
+    width: 22%;
+
+}
