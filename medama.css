@@ -10,6 +10,7 @@ body
     align-items: center;
     min-height: 100vh;
     /* background: radial-gradient(#f2761e,#ef4921); */
+    background:radial-gradient(#d4f0ff,#f8f485);
 }
 .kurukuru{
     margin: 20px;
