@@ -6,7 +6,7 @@
 body
 {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     min-height: 100vh;
     /* background: radial-gradient(#f2761e,#ef4921); */
